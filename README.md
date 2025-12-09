@@ -1,7 +1,3 @@
-Creating a **README.md** for your first React project is a great way to document your work and guide others (or even yourself in the future) through the process of how you built it. Below is an example of what your **README.md** could look like for a React project, including sections that explain your journey, steps, considerations, and the final result:
-
----
-
 # My First React Project
 
 Welcome to my first React project! This README provides an overview of the project, steps I took to build it, challenges I faced, and how I ended up with the final result.

@@ -57,7 +57,3 @@ const [darkTheme, setDarkTheme] = useState(true);
 export default Header;
 
 
-{/* <button onClick={props.all}>All</button>
-                    <button onClick={props.active}>Active</button>
-                    <button onClick={props.inactive}>Inactive</button> */}
-
