@@ -25,6 +25,8 @@ npm-debug.log*
 /build
 /.next
 /out
+# Allow dist folder for deployment
+!dist/
 
 # IDEs and editors
 /.idea
